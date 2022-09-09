@@ -1,7 +1,7 @@
 # CalculatorApp
 Designing of basic calculator using HTML and CSS
 
-Group 2 basic calculator https://codepen.io/pen/
+Group 2 basic calculator https://codepen.io/angel_balogun/pen/wvjGpgd
 
 
 ()
